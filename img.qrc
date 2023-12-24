@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Cards/1_batons.png</file>
+        <file>Cards/1_coupes.png</file>
+        <file>Cards/1_denier.png</file>
+        <file>Cards/1_epees.png</file>
+        <file>Cards/2_batons.png</file>
+        <file>Cards/2_coupes.png</file>
+        <file>Cards/2_denier.png</file>
+        <file>Cards/2_epees.png</file>
+        <file>Cards/3_batons.png</file>
+        <file>Cards/3_coupes.png</file>
+        <file>Cards/3_denier.png</file>
+        <file>Cards/3_epees.png</file>
+        <file>Cards/4_batons.png</file>
+        <file>Cards/4_coupes.png</file>
+        <file>Cards/4_denier.png</file>
+        <file>Cards/4_epees.png</file>
+        <file>Cards/5_batons.png</file>
+        <file>Cards/5_coupes.png</file>
+        <file>Cards/5_denier.png</file>
+        <file>Cards/5_epees.png</file>
+        <file>Cards/6_batons.png</file>
+        <file>Cards/6_coupes.png</file>
+        <file>Cards/6_denier.png</file>
+        <file>Cards/6_epees.png</file>
+        <file>Cards/7_batons.png</file>
+        <file>Cards/7_coupes.png</file>
+        <file>Cards/7_denier.png</file>
+        <file>Cards/7_epees.png</file>
+        <file>Cards/10_batons.png</file>
+        <file>Cards/10_coupes.png</file>
+        <file>Cards/10_denier.png</file>
+        <file>Cards/10_epees.png</file>
+        <file>Cards/11_batons.png</file>
+        <file>Cards/11_coupes.png</file>
+        <file>Cards/11_denier.png</file>
+        <file>Cards/11_epees.png</file>
+        <file>Cards/12_batons.png</file>
+        <file>Cards/12_coupes.png</file>
+        <file>Cards/12_denier.png</file>
+        <file>Cards/12_epees.png</file>
+        <file>Cards/back_card.png</file>
+        <file>Cards/blank.png</file>
+        <file>Cards/intrface.jpg</file>
+    </qresource>
+</RCC>
